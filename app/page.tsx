@@ -19,7 +19,6 @@ export default function Home() {
         <div className="w-full md:w-1/2 flex justify-center md:justify-end md:pl-16 mt-10  mb-10 md:mt-0">
           <div className="relative w-72 h-72 md:w-96 md:h-96">
             <Image src="/profile.jpg" alt="Naman Soni" layout="fill" objectFit="cover" className="rounded-full shadow-xl"/>
-            {/* <div className="absolute inset-0 rounded-full bg-gradient-to-tr from-blue-500 via-purple-500 to-pink-500 opacity-50 blur-lg"></div> */}
           </div>
         </div>
       </section>
